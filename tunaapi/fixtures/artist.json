@@ -1,0 +1,20 @@
+[
+    {
+        "model": "tunaapi.artist",
+        "pk": 1,
+        "fields": {
+            "name": "DeCorrean Davis",
+            "age": 29,
+            "bio": "A Big Stupid Head That Hates And Loves Himself"
+        }
+    },
+    {
+        "model": "tunaapi.artist",
+        "pk": 2,
+        "fields": {
+            "name": "Tiny Rodgers",
+            "age": 56,
+            "bio": "A ton of man in a tiny body!"
+        }
+      }
+]

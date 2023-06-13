@@ -1,0 +1,22 @@
+[
+    {
+        "model": "tunaapi.song",
+        "pk": 1,
+        "fields": {
+            "title": "Heaven Aint Ready",
+            "artist_id": 1,
+            "album": "The Big Letdown",
+            "length":45
+        }
+    },
+    {
+        "model": "tunaapi.song",
+        "pk": 2,
+        "fields": {
+            "title": "I AM TINY",
+            "artist_id": 2,
+            "album": "Spicy Feet",
+            "length":70
+        }
+      }
+]
